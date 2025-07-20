@@ -74,7 +74,7 @@ const Navbar = () => {
             ))}
           </ul>
 
-          <a href="/assets/Hassan-Resume.pdf" target="_blank" rel="noopener noreferrer">
+          <a href="/assets/Hassan_Resume.pdf" target="_blank" rel="noopener noreferrer">
             <motion.button
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
