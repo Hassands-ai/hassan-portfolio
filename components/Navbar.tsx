@@ -247,7 +247,7 @@ const Navbar = () => {
                 href="mailto:mrhassaniqbal67@gmail.com"
               >
                 <p>Hassan Iqbal</p>
-                <p1>+923206759926</p1>
+                <p>+923206759926</p>
               </motion.a>
             </motion.div>
           </div>
